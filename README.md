@@ -10,7 +10,41 @@ Elliott Education is dedicated to providing high-quality mathematics and physica
 To inspire potential and expand horizons through personalized tutoring, professional resources, and community activities.
 
 ---
+# Elliott Education  
 
+**Elliott Education** is based in Sydney, Australia, and operates the **"Mr. Cao's Math and Physics Tutoring Classes"**, dedicated to providing tutoring and exam preparation services for middle and high school students as well as university students in the Sydney area for mathematics and physics courses.  
+
+Elliott Education also offers commonly used **Notion** and **LaTeX templates**, including academic and note-taking templates.  
+
+Under Elliott Education, the **Arlo Observatory** provides private and group remote astrophotography services as well as sidewalk astronomy events (in-person stargazing parties) across Australia and the Oceania region.  
+
+---
+
+## About the Founder, Elliott  
+
+**Elliott Cao** (also known as *Et Carinae*) identifies with the southern hemisphere's Carina constellation, reflecting his location under the sparkling southern skies.  
+
+He holds multiple Master’s degrees from Australian universities, including:  
+- Master’s in Medical Informatics  
+- Master’s in Data Science  
+- Master’s in Public Health  
+
+Starting in the second half of 2023, Elliott finally decided to follow his true passion. After resigning and switching careers, he returned to university to pursue his deep love for astronomy.  
+
+He is currently a second-year undergraduate student majoring in **Astronomy** (with a minor in **Physics**).  
+
+---
+
+## Skills  
+
+Elliott's skill set ranges from basic to advanced, including but not limited to:  
+- **Medical English** (Introductory Latin Grammar)  
+- Various **software and programming languages** for data analysis  
+- University-level **mathematics and physics**  
+
+Elliott has a deep passion for learning and sharing new knowledge and skills.  
+
+---
 ## **Our Services**
 
 ### 🎓 **Academic Tutoring**
