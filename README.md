@@ -2,25 +2,19 @@
 
 ## **Empowering Learning, Inspiring Growth**
 
-Elliott Education is dedicated to providing high-quality mathematics and physical science tutoring and exam preparation for high school and university students in Australia and New Zealand. We also offer technical guidance, including Notion and LaTeX templates, along with tutorials. Our mission is to empower students with professional and practical learning tools to achieve their academic goals.
-
----
-
-## **Our Mission**
-To inspire potential and expand horizons through personalized tutoring, professional resources, and community activities.
-
----
-# Elliott Education  
-
-**Elliott Education** is based in Sydney, Australia, and operates the **"Mr. Cao's Math and Physics Tutoring Classes"**, dedicated to providing tutoring and exam preparation services for middle and high school students as well as university students in the Sydney area for mathematics and physics courses.  
+Based in Sydney Australia, **Elliott Education** is dedicated to providing high-quality mathematics and physical science tutoring and exam preparation for high school and university students in Australia and New Zealand. We also offer technical guidance, including Notion and LaTeX templates, along with tutorials. Our mission is to empower students with professional and practical learning tools to achieve their academic goals.
 
 Elliott Education also offers commonly used **Notion** and **LaTeX templates**, including academic and note-taking templates.  
 
-Under Elliott Education, the **Arlo Observatory** provides private and group remote astrophotography services as well as sidewalk astronomy events (in-person stargazing parties) across Australia and the Oceania region.  
+Under Elliott Education, the **Arlo Observatory** provides private and group remote astrophotography services and sidewalk astronomy events (in-person Star Parties) across Australia and the Oceania region.  
+---
+
+## **Our Mission**
+To inspire potential and expand horizons through personalised tutoring, professional resources, and community activities.
 
 ---
 
-## About the Founder, Elliott  
+## About Elliott  
 
 **Elliott Cao** (also known as *Et Carinae*) identifies with the southern hemisphere's Carina constellation, reflecting his location under the sparkling southern skies.  
 
@@ -41,7 +35,8 @@ Elliott's skill set ranges from basic to advanced, including but not limited to:
 - **Medical English** (Introductory Latin Grammar)  
 - Various **software and programming languages** for data analysis  
 - University-level **mathematics and physics**  
-
+- A basic and intermediate level of languages learning in French, German, and Danish
+  
 Elliott has a deep passion for learning and sharing new knowledge and skills.  
 
 ---
@@ -58,14 +53,10 @@ Elliott has a deep passion for learning and sharing new knowledge and skills.
 - **LaTeX Templates**: Support for academic papers and presentations.
 - Comprehensive tutorials to help users get started quickly.
 
-### 🌌 **Elliott Observatory**
+### 🌌 **Arlo Observatories**
 - A private observatory under Elliott Education dedicated to community astronomy outreach.  
 - Currently in the planning phase, with **Sidewalk Astronomy** events being held for public stargazing and science education.
 
----
-
-## **About Elliott**
-Elliott is an experienced educator and learning tools developer. He holds a Master’s degree in Public Health and Medical Informatics and is currently pursuing a Bachelor’s degree in Astronomy and Astrophysics at Macquarie University. His interdisciplinary background provides unique insights and comprehensive support for students.
 
 ---
 
@@ -91,7 +82,7 @@ Elliott is an experienced educator and learning tools developer. He holds a Mast
 ## **Quick Links**
 - 🌐 [Visit Elliott Education](https://elliotteducation.example.com)
 - 🪐 [Explore Elliott Observatory](https://elliottobservatory.example.com)
-- 📩 [Contact Us](mailto:elliott.education@example.com)
+- 📩 [Contact Us](mailto:elliotteducation956@gmail.com)
 
 ---
 
